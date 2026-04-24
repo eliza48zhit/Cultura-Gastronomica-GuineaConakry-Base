@@ -5,7 +5,7 @@ Este es el cuadragésimo séptimo contrato inteligente de mi colección "Sabores
 
 Contract Address: 0x75786ceeed98ad9Ef781C83FD7cC0BD99fC0ac31
 
-Explorer Link: Ver en Basescan
+Explorer Link: [Ver en Basescan](https://basescan.org/address/0x75786ceeed98ad9ef781c83fd7cc0bd99fc0ac31#code)
 
 🛠️ Especificaciones Técnicas del ADN de Guinea-Conakry
 Este contrato documenta la física de los granos ancestrales y la absorción de nutrientes foliares:
